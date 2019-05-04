@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/iconfinder_untitled_1_42_3773931"
+        android:title="@string/title_home" />
+
+
+
+    <item
+        android:id="@+id/navigation_daily"
+        android:icon="@drawable/iconfinder_calendar_32442"
+        android:title="Daily Activity" />
+
+    <item
+        android:id="@+id/navigation_gallery"
+        android:icon="@drawable/iconfinder_image_2428676"
+        android:title="Gallery" />
+    <item
+        android:id="@+id/navigation_musicvidio"
+        android:icon="@drawable/iconfinder_circlecontentplay_1495055"
+        android:title="Music Vidio" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/iconfinder_account_2428662"
+        android:title="Profile" />
+
+</menu>
